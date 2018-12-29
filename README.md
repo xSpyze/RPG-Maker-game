@@ -1,4 +1,4 @@
-# RPG-Maker-game
+# RPG Maker game (PL)
 
 Game made in RPG Maker VX Ace in Polish language.
 
